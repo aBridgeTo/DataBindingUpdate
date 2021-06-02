@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataBindingFinalUpdated</string>
+    <string name="click_here">Click Here</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_email_here">Enter your Email</string>
+    <string name="btn">Button</string>
+    <string name="click_with_param">"Click to see data "</string>
+    <string name="enter_image_url">Enter Image URL</string>
+</resources>
